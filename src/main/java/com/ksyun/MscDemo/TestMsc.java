@@ -8,6 +8,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * 语音听写测试
+ */
 public class TestMsc {
 
     private static Map<String, String> mParamMap = new HashMap<String, String>();
